@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<section xmlns="http://docbook.org/ns/docbook" version="5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_dir_68267d1309a1af8e8297ef4c3efbcdba" xml:lang="en-US">
+<title>/home/thierry/Sources/Opengl/Lesson07/src Directory Reference</title>
+<indexterm><primary>/home/thierry/Sources/Opengl/Lesson07/src Directory Reference</primary></indexterm>
+<simplesect>
+    <title>Files    </title>
+        <itemizedlist>
+            <listitem><para>file <link linkend="_lesson07_8c">lesson07.c</link></para>
+
+<para>Ouvre une simple fenêtre Wayland on Linux et dessine un cube dont les faces proviennent d&apos;une texture issue d&apos;un fichier BMP avec OpenGL + glut. </para>
+</listitem>
+        </itemizedlist>
+</simplesect>
+</section>
